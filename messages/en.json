@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "title": "Adike Besaya — Trusted Agricultural Guidance for Arecanut Farmers",
+    "description": "Practical knowledge, expert guidance and reliable solutions for healthy arecanut crops and sustainable farming in Karnataka."
+  },
+  "brand": {
+    "name": "ADIKE BESAYA",
+    "tagline": "Expert Agricultural Guidance"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "products": "Products",
+    "expertGuidance": "Expert Guidance",
+    "knowledge": "Knowledge",
+    "successStories": "Success Stories",
+    "contact": "Contact",
+    "videos": "Videos",
+    "soilTesting": "Soil Testing",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "primary": "Primary",
+    "more": "More",
+    "breadcrumb": "Breadcrumb"
+  },
+  "actions": {
+    "whatsapp": "WhatsApp Us",
+    "call": "Call",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "viewProduct": "View product",
+    "enquire": "Enquire",
+    "enquireWhatsapp": "Enquire on WhatsApp",
+    "sendEnquiry": "Send an enquiry",
+    "contactUs": "Contact us",
+    "languageLabel": "Language",
+    "watch": "Watch on YouTube",
+    "play": "Play video"
+  },
+  "common": {
+    "pending": "To be confirmed by Adike Besaya",
+    "pendingShort": "To be confirmed",
+    "comingSoon": "Coming soon",
+    "notProvided": "To be added",
+    "minRead": "{count} min read",
+    "published": "Published",
+    "related": "Related",
+    "all": "All",
+    "featured": "Featured",
+    "onThisPage": "On this page",
+    "share": "Share",
+    "shareWhatsapp": "Share on WhatsApp",
+    "shareFacebook": "Share on Facebook",
+    "shareX": "Share on X",
+    "copyLink": "Copy link",
+    "copied": "Link copied",
+    "backTo": "Back to {page}",
+    "interimPhoto": "Representative photograph"
+  },
+  "cta": {
+    "title": "Have a question about your garden?",
+    "body": "Send us photos and a few details on WhatsApp, or fill in the enquiry form. We reply in Kannada or English.",
+    "whatsappPending": "Our WhatsApp number will be published here soon. Meanwhile, please use the enquiry form."
+  },
+  "form": {
+    "title": "Send an enquiry",
+    "intro": "Fill in the details below and our team will get back to you.",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "phone": "Phone number",
+    "phonePlaceholder": "10-digit mobile number",
+    "phoneHint": "We will call or message you on this number.",
+    "district": "District",
+    "districtPlaceholder": "e.g. Shivamogga",
+    "language": "Preferred language",
+    "languageKn": "Kannada",
+    "languageEn": "English",
+    "subject": "Subject",
+    "subjectPlaceholder": "Choose a subject",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your garden and the problem you are facing",
+    "required": "required",
+    "submit": "Send enquiry",
+    "sending": "Sending…",
+    "privacyNote": "We use these details only to respond to your enquiry.",
+    "successTitle": "Thank you — your enquiry has been received.",
+    "successBody": "Our team will contact you soon on the number you provided.",
+    "sendAnother": "Send another enquiry",
+    "errorTitle": "Your enquiry could not be sent.",
+    "errorGeneric": "Something went wrong. Please try again in a moment.",
+    "errorNotConfigured": "Online enquiries are not connected yet. Please reach us by WhatsApp or phone using the details on our contact page.",
+    "errorValidation": "Please correct the highlighted fields.",
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "nameShort": "Name should be at least 2 characters.",
+      "phoneRequired": "Please enter your phone number.",
+      "phoneInvalid": "Enter a valid 10-digit Indian mobile number.",
+      "districtRequired": "Please enter your district.",
+      "languageRequired": "Please choose a language.",
+      "subjectRequired": "Please choose a subject.",
+      "messageRequired": "Please enter a message.",
+      "messageShort": "Please give a few more details (at least 10 characters).",
+      "messageLong": "Message is too long (maximum 1500 characters)."
+    },
+    "subjects": {
+      "general": "General enquiry",
+      "soilTesting": "Soil testing",
+      "expertGuidance": "Expert guidance",
+      "cropProblem": "Crop problem",
+      "products": "Product enquiry",
+      "successStory": "Share my success story",
+      "other": "Other"
+    }
+  },
+  "hero": {
+    "eyebrow": "Expert Agricultural Guidance",
+    "titleLead": "Trusted Agricultural Guidance for",
+    "titleHighlight": "Better Farming",
+    "body": "Practical knowledge, expert guidance and reliable solutions for healthy arecanut crops and sustainable farming.",
+    "secondaryCta": "Explore Solutions",
+    "badge1": "Crop Care",
+    "badge2": "Soil Health",
+    "badge3": "Higher Yield"
+  },
+  "stats": {
+    "farmers": "Farmers Guided",
+    "products": "Products & Solutions",
+    "services": "Agricultural Services",
+    "districts": "Districts Covered",
+    "pending": "Figures shown are placeholders pending verification."
+  },
+  "solutions": {
+    "title": "Our Agricultural Solutions",
+    "subtitle": "Complete agricultural support for healthier arecanut gardens.",
+    "viewAll": "View all solutions",
+    "items": {
+      "soilTesting": { "title": "Soil Testing", "description": "Know your soil health and nutrient needs." },
+      "cropManagement": { "title": "Arecanut Crop Management", "description": "Season-wise care for healthy, productive palms." },
+      "rootGrub": { "title": "Root Grub Management", "description": "Identify and manage root grub effectively." },
+      "disease": { "title": "Disease Management", "description": "Early identification and timely control." },
+      "pest": { "title": "Pest Management", "description": "Spot pest damage early and act with guidance." },
+      "nutrition": { "title": "Plant Nutrition", "description": "Right nutrients for better growth and yield." }
+    }
+  },
+  "soil": {
+    "title": "Get Your Soil Tested for Better Crop Health",
+    "points": {
+      "condition": "Understand your soil condition",
+      "nutrients": "Identify nutrient requirements",
+      "recommendations": "Get expert recommendations",
+      "decisions": "Make informed farming decisions"
+    },
+    "cta": "Get Soil Testing"
+  },
+  "expert": {
+    "title": "Expert Guidance",
+    "subtitle": "Personalised agricultural support from people who know arecanut gardens.",
+    "points": {
+      "advisory": "Crop advisory",
+      "diagnosis": "Problem diagnosis",
+      "nutrients": "Nutrient management",
+      "pestDisease": "Pest and disease guidance",
+      "consultation": "Farm consultation"
+    },
+    "cta": "Talk to an Expert"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Trusted agricultural products for better results.",
+    "viewAll": "View all products",
+    "items": {
+      "sukshema": "Soil health and crop development",
+      "veltrix": "Root and soil care",
+      "organicNutrient": "Natural plant nutrition support",
+      "plantBooster": "For healthy growth and development",
+      "bioBoost": "Supports overall crop vitality"
+    }
+  },
+  "knowledge": {
+    "title": "Knowledge Center",
+    "subtitle": "Farming insights, crop care tips and expert articles.",
+    "viewAll": "View all articles",
+    "items": {
+      "cropCare": { "category": "Arecanut Farming", "title": "Arecanut Crop Care: Key Practices for Healthy Palms" },
+      "soilTesting": { "category": "Soil Health", "title": "The Importance of Soil Testing in Arecanut Farming" },
+      "rootGrub": { "category": "Root Grub", "title": "Understanding and Managing Root Grub" },
+      "nutrients": { "category": "Plant Nutrition", "title": "Nutrient Management for a Better Arecanut Yield" }
+    }
+  },
+  "stories": {
+    "title": "Farmer Success Stories",
+    "subtitle": "Real experiences from farmers who have worked with us.",
+    "placeholderName": "Farmer name",
+    "placeholderLocation": "District",
+    "placeholderQuote": "A verified farmer testimonial will appear here once it has been collected and approved.",
+    "placeholderTag": "Awaiting verified story",
+    "shareTitle": "Worked with Adike Besaya?",
+    "shareBody": "Share how your garden changed. We publish stories only with the farmer's permission.",
+    "shareCta": "Share your story"
+  },
+  "footer": {
+    "description": "Practical guidance and solutions for healthier crops and sustainable farming.",
+    "quickLinks": "Quick Links",
+    "solutions": "Solutions",
+    "contact": "Contact Us",
+    "phonePending": "Phone number coming soon",
+    "emailPending": "Email coming soon",
+    "follow": "Follow us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms",
+    "sitemap": "Sitemap"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "cta": "Go to the homepage"
+  }
+}
